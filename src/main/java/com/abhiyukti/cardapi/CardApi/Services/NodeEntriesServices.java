@@ -19,4 +19,10 @@ public class NodeEntriesServices{
         cardApiRepo.findAll().forEach(nodeRow :: add);
         return nodeRow;
     }
+
+    public List<NodeEntries> findByParent(String parentId) {
+         List<NodeEntries> nodeRow = new ArrayList<>();
+        cardApiRepo.findByParent(parentId).forEach(nodeRow :: add);
+        return nodeRow;
+    }
 }

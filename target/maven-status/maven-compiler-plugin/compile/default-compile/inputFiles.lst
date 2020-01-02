@@ -1,1 +1,5 @@
 /workspace/cardApi/src/main/java/com/abhiyukti/cardapi/CardApi/CardApiApplication.java
+/workspace/cardApi/src/main/java/com/abhiyukti/cardapi/CardApi/Services/NodeEntriesServices.java
+/workspace/cardApi/src/main/java/com/abhiyukti/cardapi/CardApi/cardDataResource/CardDataProviderResource.java
+/workspace/cardApi/src/main/java/com/abhiyukti/cardapi/CardApi/CardEntity/NodeEntries.java
+/workspace/cardApi/src/main/java/com/abhiyukti/cardapi/CardApi/Repository/CardApiRepository.java
